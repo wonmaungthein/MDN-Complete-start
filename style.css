@@ -76,7 +76,7 @@
   .showcase {
     grid-area: showcase;
     min-height: 400px;
-    background-image: url(joanna-kosinska-129039-unsplash.jpg);
+    background-image: url(main-background.jpg);
     background-size: cover;
     background-position: center;
     padding: 10rem;
@@ -287,7 +287,7 @@
     background: #ff1515;
     color: white;
   }
-  
+
   /* Media Queries */
   @media (max-width: 700px) {
     .top-container {
